@@ -92,3 +92,18 @@ If the article takes 30 minutes or longer to read:
 
 There aren't tests for this feature, so you'll have to rely on running the code
 in the browser to see if your implementation works!
+
+# Blog Site
+
+This project is a React blog site made from small reusable components.
+
+## How to Run the Project
+
+1. Install the project dependencies:
+
+```bash
+npm install
+2. Start the development server:
+npm start
+3. Open the local address shown in the terminal, usually:
+http://localhost:3000
